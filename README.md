@@ -1,3 +1,6 @@
 # SQL_QUERY_LOG
-This is my SQL skillset
-##SELECT
+HELLO!This is my SQL skillset!
+Recording What I learnd about SQL.
+
+## SELECT
+
